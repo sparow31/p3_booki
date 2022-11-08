@@ -1,0 +1,28 @@
+@import url(https://fonts.google.com/specimen/Shrikhand?query=Shrikhand);
+@import url(https://fonts.google.com/specimen/Roboto);	
+
+body
+{
+    margin: 0;
+    font-family: Roboto,sans-serif;
+}
+ 
+
+header 
+{
+    .logo
+    {
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+    }
+	img
+	{
+            width: 200px;
+	}
+    .fleche
+    {
+    font-size: 50px;
+    }
+ 
+}   
